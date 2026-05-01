@@ -1,0 +1,10 @@
+# ninja log v6
+41	954	7993434152633546	calc_autogen/timestamp	cc10454d4e3f2862
+41	954	7993434152633546	calc_autogen/mocs_compilation.cpp	cc10454d4e3f2862
+41	954	7993434152633546	C:/Users/daria/Documents/use case - 1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/calc_autogen/timestamp	cc10454d4e3f2862
+41	954	7993434152633546	C:/Users/daria/Documents/use case - 1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/calc_autogen/mocs_compilation.cpp	cc10454d4e3f2862
+973	2618	7993434153859730	CMakeFiles/calc.dir/calculator.cpp.obj	962b4837f821f909
+962	3470	7993434153756294	CMakeFiles/calc.dir/main.cpp.obj	8fc7783028512285
+958	3474	7993434153713901	CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.obj	bd48ae3f2d348832
+967	3689	7993434153806364	CMakeFiles/calc.dir/mainwindow.cpp.obj	a28f00f961d9f6fc
+3689	4331	7993434181020933	calc.exe	cfbec8095a5d49d3
